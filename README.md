@@ -1,3 +1,3 @@
 # javaCalculator
-a simple gui calculator
+a simple gui calculator using java
 
